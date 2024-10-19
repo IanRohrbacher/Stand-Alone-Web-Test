@@ -2,11 +2,13 @@
 
 First time doing any website work
 
-## Installing
+## Getting started
+
+### Installing
 
 Install the "Web" folder onto your desktop.
 
-## Running
+### Running
 
 Open ./web.html
 
